@@ -1,0 +1,22 @@
+# Зависимости
+node_modules/
+.vscode/
+
+# Логи
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Сборки и кэш
+dist/
+build/
+.cache/
+.npm/
+
+# Среда окружения
+.env
+.env.local
+# не нужные файлы
+i.js
